@@ -8,8 +8,8 @@ React native shop app with auth and realtime database (firebase).
 - view your order list
 
 ## Screenshot:-
-<img alt="APK SS" src="https://drive.google.com/uc?export=view&id=1Gw8RoHwARkrORSfbMAivoLXxrkRXokrK" width="250" height="450">   <img alt="APK SS" src="https://drive.google.com/uc?export=view&id=1SnQBo99xCxsOg5romcWEtafdThPQEE2r" width="250" height="450">   <img alt="APK SS" src="https://drive.google.com/uc?export=view&id=1ZtKyNrDfzUQUJZhT3zY0mZr48jSnuRbL" width="250" height="450">
-<img alt="APK SS" src="https://drive.google.com/uc?export=view&id=1Q8y-DSBCy-q9QIHbqE29rKOYNQWB6SsO" width="250" height="450">   <img alt="APK SS" src="https://drive.google.com/uc?export=view&id=1tsUL0Lbi2Y7veeCIFjoTCHUtTPTLeIAF" width="250" height="450">   <img alt="APK SS" src="https://drive.google.com/uc?export=view&id=1tbtCRy-WdeyZAggQUG-SczJeGfrWlzSB" width="250" height="450">
+<img alt="APK SS" src="https://github.com/maneeshmashelkar/The-Shop-App/blob/main/screenshot/the%20shop%20app%20(1).jpg" width="250" height="450">   <img alt="APK SS" src="https://github.com/maneeshmashelkar/The-Shop-App/blob/main/screenshot/the%20shop%20app%20(2).jpg" width="250" height="450">   <img alt="APK SS" src="https://github.com/maneeshmashelkar/The-Shop-App/blob/main/screenshot/the%20shop%20app%20(3).jpg" width="250" height="450">
+<img alt="APK SS" src="https://github.com/maneeshmashelkar/The-Shop-App/blob/main/screenshot/the%20shop%20app%20(4).jpg" width="250" height="450">   <img alt="APK SS" src="https://github.com/maneeshmashelkar/The-Shop-App/blob/main/screenshot/the%20shop%20app%20(5).jpg" width="250" height="450">   <img alt="APK SS" src="https://github.com/maneeshmashelkar/The-Shop-App/blob/main/screenshot/the%20shop%20app%20(6).jpg" width="250" height="450">
 
 ## Download .APK :-
 [The-Shop-App](https://drive.google.com/file/d/1RAKMn8ywOMLMe2zn2VzKN6K5dArzRrKx/view?usp=sharing)
