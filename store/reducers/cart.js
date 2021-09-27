@@ -44,23 +44,23 @@ export default (state = initialState, action) => {
     case REMOVE_FROM_CART:
       const selectedCartItem = state.items[action.pid];
       const currenQTY = selectedCartItem.quantity;
-      let updatedCartItem;
+      let updatedCartItems;
       if (currenQTY > 1) {
-        updatedCartItem = new CartItem(
+        const updatedCartItem = new CartItem(
           selectedCartItem.quantity - 1,
           selectedCartItem.prodPrice,
           selectedCartItem.prodTitle,
           selectedCartItem.sum - selectedCartItem.prodPrice
         );
-        updatedCartItem = { ...state.items, [action.pid]: updatedCartItem };
+        updatedCartItems = { ...state.items, [action.pid]: updatedCartItem };
       } else {
-        updatedCartItem = { ...state.items };
+        updatedCartItems = { ...state.items };
         delete updatedCartItem[action.pid];
       }
 
       return {
         ...state,
-        items: updatedCartItem,
+        items: updatedCartItems,
         totalAmount: state.totalAmount - selectedCartItem.prodPrice,
       };
 
