@@ -21,6 +21,7 @@
     },
     "android": {
       "package":"com.mnm.the_shop_app",
+      "googleServicesFile": "./google-services.json",
       "versionCode":1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/shop-adaptive.png",
